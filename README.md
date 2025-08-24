@@ -24,10 +24,41 @@ This is a fully responsive **Amazon-inspired e-commerce homepage** built using *
 
 ## **Project Structure**
 ```
-├── index.html      # Main HTML file
-├── style.css       # Styling file
-├── images/         # (Contains background & product images)
-└── README.md       # Documentation
+├── index.html         # Main HTML file (homepage)
+├── style.css          # Stylesheet file
+├── screenshots/       # Folder containing UI screenshots for README
+│   ├── homepage.png
+│   ├── products.png
+│   └── footer.png
+├── Amazon_logo.png    # Logo image file (educational use only)
+├── box1.jpg           # Sample product section image 1
+├── box1_4img1.jpg     # Box1 variant image 1
+├── box1_4img2.jpg
+├── box1_4img3.jpg
+├── box1_4img4.jpg
+├── box2_img.jpg
+├── box3_4img1.jpg     # And so on for other Box3 images...
+├── box3_4img2.jpg
+├── box3_4img3.jpg
+├── box3_4img4.jpg
+├── box4_4img1.jpg
+├── box4_4img2.jpg
+├── box4_4img3.jpg
+├── box4_4img4.jpg
+├── box5_4img1.jpg
+├── box5_4img2.jpg
+├── box5_4img3.jpg
+├── box5_4img4.jpg
+├── box6_img.jpg
+├── box7_4img1.jpg     # Box7 image set
+├── box7_4img2.jpg
+├── box7_4img3.jpg
+├── box7_4img4.jpg
+├── box8_4img1.jpg
+├── box8_4img2.jpg
+├── box8_4img3.jpg
+├── box8_4img4.jpg
+└── README.md          # Documentation
 ```
 
 ---
