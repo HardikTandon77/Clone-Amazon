@@ -52,7 +52,6 @@ This is a fully responsive **Amazon-inspired e-commerce homepage** built using *
 ### **Footer Section**
 ![Footer Screenshot](screenshots/footer.png)
 
-*(Add your screenshots inside a `/screenshots` folder in the repo and replace the above links)*
 
 ---
 
